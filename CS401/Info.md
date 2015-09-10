@@ -5,6 +5,6 @@
 
 ###Lab: Th 02:00 PM - 03:50 PM
 
-###My Office Hours: MW 11:00 AM - 1:00 PM
+###My Office Hours: MW 11:00 AM - 1:00 PM in 6506 Sennott Square
 ###Email: sag109@pitt.edu
 ###Site: https://github.com/ShelleyGoldberg/UTA/tree/master/CS401
