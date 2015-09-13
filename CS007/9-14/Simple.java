@@ -6,6 +6,6 @@
     public static void main(String [] args)
     {
       //prints String to console
-      System.out.println("Programming is great fun!)
+      System.out.println("Programming is great fun!");
     }
   }
